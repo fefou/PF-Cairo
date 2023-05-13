@@ -30,6 +30,10 @@ footer {
   background-color: #EFB5C4;
 }
 
+.footer-logo {
+  width: 30px;
+}
+
 .nav-link {
   font-size: 18px;
   color: #EFB5C4;
